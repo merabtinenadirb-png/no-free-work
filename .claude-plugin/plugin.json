@@ -1,0 +1,8 @@
+{
+  "name": "no-free-work",
+  "version": "0.1.0",
+  "description": "Scope-creep shield for freelancers: paste a client request, get a verdict, a reply that keeps the relationship, and a priced change order.",
+  "author": { "name": "Nadir Merabtine" },
+  "license": "MIT",
+  "keywords": ["freelance", "scope-creep", "client", "change-order", "agency", "consulting"]
+}
