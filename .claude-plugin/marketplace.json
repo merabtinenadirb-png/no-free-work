@@ -1,0 +1,11 @@
+{
+  "name": "no-free-work",
+  "owner": { "name": "Nadir Merabtine" },
+  "plugins": [
+    {
+      "name": "no-free-work",
+      "source": "./",
+      "description": "Scope-creep shield for freelancers: verdict, client-safe reply, priced change order."
+    }
+  ]
+}
