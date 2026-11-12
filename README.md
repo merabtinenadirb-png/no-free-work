@@ -32,16 +32,27 @@ For freelancers, consultants and small agencies. Works in Claude (skills), Claud
 
 Then just talk: *"My client wrote this — is it in scope?"*
 
-## Want the rest of the client workflow?
-
-No Free Work is one piece. The **Client Work Kit** adds six more skills for the whole job: discovery call, proposal, pricing, kickoff, status update, wrap-up.
-
-- Free sample (Discovery Call skill): https://2328403173770.gumroad.com/l/aioirs
-- Client Work Kit: https://2328403173770.gumroad.com/l/surid
-
 ## Limits
 
 This skill writes wording and arithmetic. It is not legal advice and it has not read your contract unless you paste it.
+
+## Troubleshooting
+
+- **The skill does not trigger**: name it — "use no-free-work on this message" — and paste the client's words.
+- **The price is blank**: the skill never invents a rate. Give your hourly or daily rate, or the project price and its estimated effort.
+- **The verdict looks wrong**: paste the scope you agreed (proposal, contract, or your own summary). Without it the best possible verdict is "gray zone".
+
+## Data
+
+The skill is plain instructions. It runs no code, calls no service and stores nothing.
+
+## Support
+
+Questions and bug reports: https://github.com/merabtinenadirb-png/no-free-work/issues
+
+## Related work by the author
+
+The Client Work Kit is a separate, paid set of six skills for the rest of a client project (discovery call, proposal, pricing, kickoff, status update, wrap-up): https://2328403173770.gumroad.com/l/surid — a free sample is at https://2328403173770.gumroad.com/l/aioirs
 
 ## License
 
